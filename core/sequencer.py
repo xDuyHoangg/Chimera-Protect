@@ -7,6 +7,7 @@ class ChimeraEngineV5:
         self._MAP = {0: 'A', 1: 'T', 2: 'G', 3: 'C'}
         self._REV_MAP = {v: k for k, v in self._MAP.items()}
         self._MASTER_KEY = master_key
+        self.PROTOCOL = "CHIMERA-PROTECT"
 
     def _derive_key(self, salt):
         # NIST Standard: PBKDF2 with 100k iterations

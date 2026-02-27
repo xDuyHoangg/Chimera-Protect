@@ -258,4 +258,8 @@ Any modification to core cryptographic logic may compromise system security.
 ### 🧬 Chimera-Protect
 > Advanced Bio-Digital Encryption Framework | Secure by Design
 
+<<<<<<< HEAD
 Made with ❤️ by Nguyễn Duy Hoàng
+=======
+Made with ❤️ by Nguyễn Duy Hoàng
+>>>>>>> aa2df272b0c5864500e080a1c3a169213236774e

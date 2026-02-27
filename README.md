@@ -170,7 +170,7 @@ Response:
     "sequence": "ATGCCGT...",
     "metadata": {
       "locus": "salt_hex_here",
-      "protocol": "CHIMERA-AES-GCM-V5"
+      "protocol": "CHIMERA-PROTECT"
     }
   }
 }
@@ -187,7 +187,8 @@ Response:
   "genome_packet": {
     "sequence": "ATGCCGT...",
     "metadata": {
-      "locus": "salt_hex_here"
+      "locus": "salt_hex_here",
+      "protocol": "CHIMERA-PROTECT"
     }
   }
 }
